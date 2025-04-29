@@ -1,0 +1,5 @@
+replicaCount: 1
+
+image:
+  repository: 139296829354.dkr.ecr.ap-southeast-1.amazonaws.com/matching-engine
+  tag: ""
